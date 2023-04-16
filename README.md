@@ -7,7 +7,7 @@ This is a simple TicTacToe game made in Java with a Swing front-end. To play the
 
 To get started, you will need to download the source code for the game. You can do this by cloning the repository:
 ```
-git clone https://github.com/yourusername/tictactoe-java.git
+git clone git@github.com:Rothoff/TicTacToe.git
 ```
 Once you have the source code, you can open it in your preferred Java compiler. The main class is TicTacToe.java, which you can run to start the game.
 
